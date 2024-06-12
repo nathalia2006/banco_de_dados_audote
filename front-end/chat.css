@@ -1,0 +1,6 @@
+header, footer {
+    background-color: #DED398; height: 7rem;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
